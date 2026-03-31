@@ -1,6 +1,6 @@
 # Ứng dụng giả lập hệ quản trị CSDL đơn giản
 
-Đồ án môn **[CS523] Cấu trúc dữ liệu và giải thuật nâng cao**.
+Thực hành **[CS523] Cấu trúc dữ liệu và giải thuật nâng cao**.
 
 ## Nội dung
 Chương trình mô phỏng một ứng dụng quản lý sinh viên, hỗ trợ các thao tác:
